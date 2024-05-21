@@ -1,0 +1,17 @@
+body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.h2-color{
+    color: white;
+}
+.h4-color{
+    color: white;
+}
+.p-color{
+    color: white;
+}
+.h5-color{
+    color: white;
+}
